@@ -39,8 +39,6 @@ Try it live here 👉 [Medicine Reminder Buddy](https://medicinereminderbuddy.st
 
 ````
 
----
-
 ## 🧪 Installation & Run Locally
 
 1. **Clone the repository**  
@@ -67,8 +65,6 @@ Try it live here 👉 [Medicine Reminder Buddy](https://medicinereminderbuddy.st
    streamlit run app.py
    ```
 
----
-
 ## 🌐 Deployment (Streamlit Cloud)
 
 1. Push your code to a GitHub repository.
@@ -76,16 +72,4 @@ Try it live here 👉 [Medicine Reminder Buddy](https://medicinereminderbuddy.st
 3. Connect your GitHub repo.
 4. Deploy and share your app!
 
----
-
-## 📦 requirements.txt
-
-```txt
-streamlit>=1.32.0
-```
-
----
-
 ## 🙋‍♀️ Made with ❤️ by [Ayesha Nasir](https://github.com/AyeshaNasirWebDeveloper)
-
-```
