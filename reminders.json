@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Panadol",
+        "dosage": "3",
+        "reminder_time": "06:31 PM",
+        "weekdays": [
+            "Sunday"
+        ],
+        "quantity": 1,
+        "taken_log": {
+            "2025-05-11": true
+        }
+    },
+    {
+        "name": "Calpol Plus",
+        "dosage": "3",
+        "reminder_time": "06:35 PM",
+        "weekdays": [
+            "Sunday"
+        ],
+        "quantity": 0,
+        "taken_log": {
+            "2025-05-11": true
+        }
+    }
+]
