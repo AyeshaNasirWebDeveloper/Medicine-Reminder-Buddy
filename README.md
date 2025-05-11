@@ -3,7 +3,7 @@
 A simple and interactive Streamlit app to help you manage your medicine intake with timely reminders, logs, and tracking.
 
 ## 🚀 Live Demo
-Try it live here 👉 [Medicine Reminder Buddy]()  
+Try it live here 👉 [Medicine Reminder Buddy](https://medicinereminderbuddy.streamlit.app/)  
 
 ---
 
@@ -46,7 +46,6 @@ Try it live here 👉 [Medicine Reminder Buddy]()
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/AyeshaNasirWebDeveloper/Medicine-Reminder-Buddy.git
-   cd medicine-reminder-buddy
 ````
 
 2. **Create a virtual environment (optional but recommended)**
